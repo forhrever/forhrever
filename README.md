@@ -10,12 +10,4 @@
 <h4>My Blog</h4>
 <a href="https://velog.io/@forhrever"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
-<h4>Language</h4>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forhrever&theme=radical&hide=jupyter%20notebook)
-
-<h4>Github Status</h4>
-
-![forhrever's github stats](https://github-readme-stats.vercel.app/api?username=forhrever&show_icons=true)
-
 </div>
