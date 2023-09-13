@@ -9,9 +9,6 @@
 
 <h4>📖My Blog</h4>
 <a href="https://velog.io/@forhrever"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-
-<h4>💻Front-End Developer</h4>
-<a href="https://www.notion.so/93ad326d0a0f4332b99c9e9581cff03f?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=53C14B&height=250&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
 </div>
